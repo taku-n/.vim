@@ -77,7 +77,5 @@ noremap <down> adown
 noremap <left> aleft
 noremap <right> aright
 
-noremap <Space> ah<lf>o<cr>g<lf>e<c-[>
-
 syntax enable
 filetype plugin indent on
