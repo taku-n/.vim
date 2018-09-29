@@ -53,6 +53,8 @@ set number
 set ruler
 set colorcolumn=81
 
+hi Comment ctermfg=Blue
+
 filetype on
 
 function! Hello()
@@ -74,7 +76,6 @@ inoremap <C-h> hello, world
 " insert mode
 
 noremap <up> aup
-noremap <down> adown
 noremap <left> aleft
 noremap <right> aright
 
