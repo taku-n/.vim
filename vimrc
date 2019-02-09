@@ -53,7 +53,7 @@ set number
 set ruler
 set colorcolumn=81
 
-hi Comment ctermfg=Blue
+hi Comment ctermfg=Cyan
 
 filetype on
 
