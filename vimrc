@@ -51,7 +51,7 @@ set encoding=utf-8
 set fileformat=unix
 set number
 set ruler
-set colorcolumn=81
+set colorcolumn=101
 
 hi Comment ctermfg=Cyan
 
