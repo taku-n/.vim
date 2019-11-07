@@ -1,3 +1,6 @@
+setlocal expandtab
+setlocal shiftwidth=2
+
 let g:html_indent_autotags = "html,head,body"
 
 " <p></p>
