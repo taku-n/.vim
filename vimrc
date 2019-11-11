@@ -52,6 +52,7 @@ set fileformat=unix
 set number
 set ruler
 set colorcolumn=101
+set belloff=all
 
 hi Comment ctermfg=Cyan
 
